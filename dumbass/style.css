@@ -1,0 +1,13 @@
+body {
+    background-color: red;
+}
+
+#Video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  cursor: none;
+  cursor: none;
+}
